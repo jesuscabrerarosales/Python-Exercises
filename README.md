@@ -36,3 +36,11 @@ This project is focused on:
 ---
 
 Feel free to explore each folder and run the scripts for practice or review.
+
+---
+📜 License
+MIT License — feel free to use, modify, and contribute.
+
+```
+Let me know if you’d like to include screenshots, badges, or a live demo section!
+```
